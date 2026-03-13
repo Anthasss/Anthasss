@@ -13,7 +13,6 @@ Experienced in making webapps.<br>Currently learning machine learning
     height="165"
   />
 </p>
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=Anthasss&theme=gruvbox&hide_border=true" 
